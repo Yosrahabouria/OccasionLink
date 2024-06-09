@@ -23,6 +23,19 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+#Technologies Used
+Angular
+Bootstrap
+
+
+#Contributing
+
+Fork the repository.
+Create a new branch (git checkout -b feature/my-feature).
+Commit your changes (git commit -am 'Add my feature').
+Push to the branch (git push origin feature/my-feature).
+Create a new Pull Request.
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
