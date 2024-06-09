@@ -2,7 +2,8 @@
 The OccasionLink MVP aims to provide an efficient system for managing events with real-time updates and user interactions. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
-## Development server
+## Development server![sign in](https://github.com/Yosrahabouria/OccasionLink/assets/132350298/863e0508-f4fb-471b-bccd-f9beae191af8)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
